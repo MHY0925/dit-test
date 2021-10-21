@@ -5,5 +5,7 @@ public class Demo1 {
         System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("hello git3");
+        System.out.println("it's hot fix");
+        System.out.println("it's master");
     }
 }
